@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj": {}
+    "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj": {
+    "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj",
+        "projectUniqueName": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj",
         "projectName": "GerenciadorDeTarefas",
-        "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj",
+        "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\GerenciadorDeTarefas.csproj",
         "packagesPath": "C:\\Users\\DiverseDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\obj\\",
+        "outputPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\GerenciadorDeTarefas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DiverseDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Usuario\\Usuarios.csproj": {
-                "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Usuario\\Usuarios.csproj"
+              "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Usuario\\Usuarios.csproj": {
+                "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Usuario\\Usuarios.csproj"
               },
-              "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Utils\\Functions.csproj": {
-                "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Utils\\Functions.csproj"
+              "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Utils\\Functions.csproj": {
+                "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Utils\\Functions.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Tarefas\\Tarefas.csproj": {
+    "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Tarefas\\Tarefas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Tarefas\\Tarefas.csproj",
+        "projectUniqueName": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Tarefas\\Tarefas.csproj",
         "projectName": "Tarefas",
-        "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Tarefas\\Tarefas.csproj",
+        "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Tarefas\\Tarefas.csproj",
         "packagesPath": "C:\\Users\\DiverseDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Tarefas\\obj\\",
+        "outputPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Tarefas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DiverseDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -121,14 +121,14 @@
         }
       }
     },
-    "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Usuario\\Usuarios.csproj": {
+    "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Usuario\\Usuarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Usuario\\Usuarios.csproj",
+        "projectUniqueName": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Usuario\\Usuarios.csproj",
         "projectName": "Usuarios",
-        "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Usuario\\Usuarios.csproj",
+        "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Usuario\\Usuarios.csproj",
         "packagesPath": "C:\\Users\\DiverseDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Usuario\\obj\\",
+        "outputPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Usuario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DiverseDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -145,8 +145,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Tarefas\\Tarefas.csproj": {
-                "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Tarefas\\Tarefas.csproj"
+              "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Tarefas\\Tarefas.csproj": {
+                "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Tarefas\\Tarefas.csproj"
               }
             }
           }
@@ -180,14 +180,14 @@
         }
       }
     },
-    "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Utils\\Functions.csproj": {
+    "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Utils\\Functions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Utils\\Functions.csproj",
+        "projectUniqueName": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Utils\\Functions.csproj",
         "projectName": "Functions",
-        "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Utils\\Functions.csproj",
+        "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Utils\\Functions.csproj",
         "packagesPath": "C:\\Users\\DiverseDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Utils\\obj\\",
+        "outputPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Utils\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DiverseDev\\AppData\\Roaming\\NuGet\\NuGet.Config",

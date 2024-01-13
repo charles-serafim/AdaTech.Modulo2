@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Usuario\\Usuarios.csproj",
+      "projectUniqueName": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Usuario\\Usuarios.csproj",
       "projectName": "Usuarios",
-      "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Usuario\\Usuarios.csproj",
+      "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Usuario\\Usuarios.csproj",
       "packagesPath": "C:\\Users\\DiverseDev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Usuario\\obj\\",
+      "outputPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Usuario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DiverseDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Tarefas\\Tarefas.csproj": {
-              "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Tarefas\\Tarefas.csproj"
+            "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Tarefas\\Tarefas.csproj": {
+              "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Tarefas\\Tarefas.csproj"
             }
           }
         }

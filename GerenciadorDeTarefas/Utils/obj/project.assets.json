@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Utils\\Functions.csproj",
+      "projectUniqueName": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Utils\\Functions.csproj",
       "projectName": "Functions",
-      "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Utils\\Functions.csproj",
+      "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Utils\\Functions.csproj",
       "packagesPath": "C:\\Users\\DiverseDev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Utils\\obj\\",
+      "outputPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Utils\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DiverseDev\\AppData\\Roaming\\NuGet\\NuGet.Config",

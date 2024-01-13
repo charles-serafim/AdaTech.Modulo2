@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Tarefas\\Tarefas.csproj",
+      "projectUniqueName": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Tarefas\\Tarefas.csproj",
       "projectName": "Tarefas",
-      "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Tarefas\\Tarefas.csproj",
+      "projectPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Tarefas\\Tarefas.csproj",
       "packagesPath": "C:\\Users\\DiverseDev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\GerenciadorDeTarefas\\Tarefas\\obj\\",
+      "outputPath": "C:\\Users\\DiverseDev\\Documents\\Charles\\Curso - BackEnd C#\\Projetos\\ProjetoOOP\\individual\\AdaTech.Modulo2\\GerenciadorDeTarefas\\Tarefas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DiverseDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
