@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GerenciadorDeTarefas/1.0.0": {
+        "dependencies": {
+          "Functions": "1.0.0",
+          "Usuarios": "1.0.0"
+        },
+        "runtime": {
+          "GerenciadorDeTarefas.dll": {}
+        }
+      },
+      "Functions/1.0.0": {
+        "runtime": {
+          "Functions.dll": {}
+        }
+      },
+      "Tarefas/1.0.0": {
+        "runtime": {
+          "Tarefas.dll": {}
+        }
+      },
+      "Usuarios/1.0.0": {
+        "dependencies": {
+          "Tarefas": "1.0.0"
+        },
+        "runtime": {
+          "Usuarios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GerenciadorDeTarefas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Functions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tarefas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Usuarios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
