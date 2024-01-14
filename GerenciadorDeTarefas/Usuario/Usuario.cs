@@ -25,6 +25,8 @@ public abstract class Usuario
         Nome = nome;
     }
 
+    public abstract void ShowMenu();
+
     //public abstract void VisualizarTarefas<T>(List<T> listaDeTarefas);
     //public abstract void VisualizarEstatisticas<T>(List<T> listaDeTarefas);
     //public abstract Tarefa CriarTarefa(StatusTarefaEnum statusTarefa, string titulo, string local);

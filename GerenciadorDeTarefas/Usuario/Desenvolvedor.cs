@@ -16,6 +16,15 @@ public class Desenvolvedor : Usuario
     {
     }
 
+    public override void ShowMenu()
+    {
+        Console.WriteLine("1 - Criar tarefa\n" +
+                          "2 - Modificar status da tarefa\n" +
+                          "3 - Visualizar minhas tarefas\n" +
+                          "4 - Visualizar minhsa estatísticas\n" +
+                          "0 - Sair\n");
+    }
+
     //public override void VisualizarTarefas<T>(List<T> listaDeTarefas);
     //public override void VisualizarEstatisticas<T>(List<T> listaDeTarefas);
     //public override Tarefa CriarTarefa(StatusTarefaEnum statusTarefa, string titulo, string local);

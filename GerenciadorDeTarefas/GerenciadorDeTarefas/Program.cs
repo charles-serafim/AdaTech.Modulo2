@@ -29,13 +29,21 @@ public class Program
                 continue;
             }
             
-            Console.WriteLine($"Nome: {usuarioLogado.Nome}\n" +
-                              $"ID: {usuarioLogado.IdUsuario}\n" +
-                              $"Nível de acesso: {usuarioLogado.GetType().Name}\n");
+            //Console.WriteLine($"Nome: {usuarioLogado.Nome}\n" +
+            //                  $"ID: {usuarioLogado.IdUsuario}\n" +
+            //                  $"Nível de acesso: {usuarioLogado.GetType().Name}\n");
+            //Utils.GoOn();
 
-
+            ShowMenu(usuarioLogado);
+            Utils.GoOn();
         }
         
+    }
+
+    public static void ShowMenu(Usuario usuario)
+    {
+        Console.Clear();
+        usuario.ShowMenu();
     }
 
     private static Usuario Autenticar()
