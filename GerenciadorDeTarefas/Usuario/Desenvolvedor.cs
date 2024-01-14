@@ -9,10 +9,10 @@ namespace Usuarios;
 
 public class Desenvolvedor : Usuario
 {
-    public Desenvolvedor(string nome, NivelAcessoEnum nivelAcesso) : base(nome, nivelAcesso)
+    public Desenvolvedor(string nome) : base(nome)
     {
     }
-    public Desenvolvedor(int idUsuario, string nome, NivelAcessoEnum nivelAcesso) : base(idUsuario, nome, nivelAcesso)
+    public Desenvolvedor(int idUsuario, string nome) : base(idUsuario, nome)
     {
     }
 

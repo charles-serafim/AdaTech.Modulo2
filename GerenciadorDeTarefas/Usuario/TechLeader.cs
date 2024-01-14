@@ -9,7 +9,10 @@ namespace Usuarios;
 
 public class TechLeader : Usuario
 {
-    public TechLeader(int idUsuario, string nome, NivelAcessoEnum nivelAcesso) : base(idUsuario, nome, nivelAcesso)
+    public TechLeader(string nome) : base(nome)
+    {
+    }
+    public TechLeader(int idUsuario, string nome) : base(idUsuario, nome)
     {
     }
 

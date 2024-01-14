@@ -82,6 +82,32 @@ public static class Utils
 
         return result;
     }
+    public static string LerSenha()
+    {
+        string senha = "";
+        ConsoleKeyInfo key;
+
+        do
+        {
+            key = Console.ReadKey(true);
+
+            // verifica se a tecla pressionada é uma tecla de caractere
+            if (char.IsLetterOrDigit(key.KeyChar) || char.IsSymbol(key.KeyChar))
+            {
+                senha += key.KeyChar;
+                Console.Write("*");
+            }
+            else if (key.Key == ConsoleKey.Backspace && senha.Length > 0)
+            {
+                senha = senha.Substring(0, senha.Length - 1);
+                Console.Write("\b \b"); // apaga o último caractere digitado
+            }
+        } while (key.Key != ConsoleKey.Enter);
+
+        Console.WriteLine();
+
+        return Utils.Hash(senha);
+    }
 
     public static string Hash(string input)
     {

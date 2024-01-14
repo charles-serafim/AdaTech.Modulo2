@@ -21,3 +21,15 @@ C:\Users\DiverseDev\Documents\Charles\Curso - BackEnd C#\Projetos\ProjetoOOP\Ger
 C:\Users\DiverseDev\Documents\Charles\Curso - BackEnd C#\Projetos\ProjetoOOP\GerenciadorDeTarefas\Utils\obj\Debug\net8.0\refint\Functions.dll
 C:\Users\DiverseDev\Documents\Charles\Curso - BackEnd C#\Projetos\ProjetoOOP\GerenciadorDeTarefas\Utils\obj\Debug\net8.0\Functions.pdb
 C:\Users\DiverseDev\Documents\Charles\Curso - BackEnd C#\Projetos\ProjetoOOP\GerenciadorDeTarefas\Utils\obj\Debug\net8.0\ref\Functions.dll
+C:\Users\DiverseDev\Documents\Charles\Curso - BackEnd C#\Projetos\ProjetoOOP\individual\AdaTech.Modulo2\GerenciadorDeTarefas\Utils\bin\Debug\net8.0\Functions.deps.json
+C:\Users\DiverseDev\Documents\Charles\Curso - BackEnd C#\Projetos\ProjetoOOP\individual\AdaTech.Modulo2\GerenciadorDeTarefas\Utils\bin\Debug\net8.0\Functions.dll
+C:\Users\DiverseDev\Documents\Charles\Curso - BackEnd C#\Projetos\ProjetoOOP\individual\AdaTech.Modulo2\GerenciadorDeTarefas\Utils\bin\Debug\net8.0\Functions.pdb
+C:\Users\DiverseDev\Documents\Charles\Curso - BackEnd C#\Projetos\ProjetoOOP\individual\AdaTech.Modulo2\GerenciadorDeTarefas\Utils\obj\Debug\net8.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DiverseDev\Documents\Charles\Curso - BackEnd C#\Projetos\ProjetoOOP\individual\AdaTech.Modulo2\GerenciadorDeTarefas\Utils\obj\Debug\net8.0\Functions.AssemblyInfoInputs.cache
+C:\Users\DiverseDev\Documents\Charles\Curso - BackEnd C#\Projetos\ProjetoOOP\individual\AdaTech.Modulo2\GerenciadorDeTarefas\Utils\obj\Debug\net8.0\Functions.AssemblyInfo.cs
+C:\Users\DiverseDev\Documents\Charles\Curso - BackEnd C#\Projetos\ProjetoOOP\individual\AdaTech.Modulo2\GerenciadorDeTarefas\Utils\obj\Debug\net8.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\DiverseDev\Documents\Charles\Curso - BackEnd C#\Projetos\ProjetoOOP\individual\AdaTech.Modulo2\GerenciadorDeTarefas\Utils\obj\Debug\net8.0\Functions.sourcelink.json
+C:\Users\DiverseDev\Documents\Charles\Curso - BackEnd C#\Projetos\ProjetoOOP\individual\AdaTech.Modulo2\GerenciadorDeTarefas\Utils\obj\Debug\net8.0\Functions.dll
+C:\Users\DiverseDev\Documents\Charles\Curso - BackEnd C#\Projetos\ProjetoOOP\individual\AdaTech.Modulo2\GerenciadorDeTarefas\Utils\obj\Debug\net8.0\refint\Functions.dll
+C:\Users\DiverseDev\Documents\Charles\Curso - BackEnd C#\Projetos\ProjetoOOP\individual\AdaTech.Modulo2\GerenciadorDeTarefas\Utils\obj\Debug\net8.0\Functions.pdb
+C:\Users\DiverseDev\Documents\Charles\Curso - BackEnd C#\Projetos\ProjetoOOP\individual\AdaTech.Modulo2\GerenciadorDeTarefas\Utils\obj\Debug\net8.0\ref\Functions.dll

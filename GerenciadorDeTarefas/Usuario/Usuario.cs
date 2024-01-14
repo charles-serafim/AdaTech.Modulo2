@@ -13,19 +13,16 @@ public abstract class Usuario
     private static int s_contadorUsuarios = 0;
     public int IdUsuario { get; set; }
     public string Nome { get; private set; }
-    public NivelAcessoEnum NivelAcesso { get; private set; }
 
-    public Usuario(string nome, NivelAcessoEnum nivelAcesso)
+    public Usuario(string nome)
     {
         IdUsuario = ++s_contadorUsuarios;
         Nome = nome;
-        NivelAcesso = nivelAcesso;
     }
-    public Usuario(int idUsuario, string nome, NivelAcessoEnum nivelAcesso)
+    public Usuario(int idUsuario, string nome)
     {
         IdUsuario = idUsuario;
         Nome = nome;
-        NivelAcesso = nivelAcesso;
     }
 
     //public abstract void VisualizarTarefas<T>(List<T> listaDeTarefas);
