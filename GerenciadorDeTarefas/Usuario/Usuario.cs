@@ -21,6 +21,7 @@ public abstract class Usuario
     }
     public Usuario(int idUsuario, string nome)
     {
+        s_contadorUsuarios++;
         IdUsuario = idUsuario;
         Nome = nome;
     }

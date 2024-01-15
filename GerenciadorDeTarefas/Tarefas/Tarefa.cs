@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Tarefas;
+﻿namespace Tarefas;
 
 public class Tarefa
 {
@@ -12,21 +6,36 @@ public class Tarefa
     public int IdTarefa { get; set; }
     public int IdCriador { get; set; }
     public StatusTarefaEnum StatusTarefa { get; set; }
-    public List<int>? IdResponsaveis { get; set; }
+    public List<int> IdResponsaveis { get; set; }
     public DateTime? DataInicio { get; set; }
     public DateTime? DataLimite { get; set; }
     public string Titulo { get; set; }
     public string? Descricao { get; set; }
     public string Local { get; set; }
 
-    public Tarefa(int idCriador, StatusTarefaEnum statusTarefa, string titulo, string local)
+    public Tarefa(int idCriador, StatusTarefaEnum statusTarefa, List<int> idResponsaveis, string titulo, string local)
     {
         IdTarefa = ++s_contadorTarefas;
         IdCriador = idCriador;
         StatusTarefa = statusTarefa;
+        IdResponsaveis = idResponsaveis;
         Titulo = titulo;
         Local = local;
         IdResponsaveis = new List<int>();
+    }
+
+    public Tarefa(int idTarefa, int idCriador, StatusTarefaEnum statusTarefa, List<int> idResponsaveis, DateTime dataInicio, DateTime dataLimite, string titulo, string descricao, string local)
+    {
+        s_contadorTarefas++;
+        IdTarefa = idTarefa;
+        IdCriador = idCriador;
+        StatusTarefa = statusTarefa;
+        IdResponsaveis = idResponsaveis;
+        DataInicio = dataInicio;
+        DataLimite = dataLimite;
+        Titulo = titulo;
+        Descricao = descricao;
+        Local = local;
     }
 
     public bool AlocarResponsaveis(List<int> idResponsaveis)

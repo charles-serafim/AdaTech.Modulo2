@@ -7,16 +7,9 @@ using Tarefas;
 
 namespace Usuarios;
 
-public class Desenvolvedor : Usuario
+public class DesenvolvedorUI
 {
-    public Desenvolvedor(string nome) : base(nome)
-    {
-    }
-    public Desenvolvedor(int idUsuario, string nome) : base(idUsuario, nome)
-    {
-    }
-
-    public override void ShowMenu()
+    public void ShowMenu()
     {
         Console.WriteLine("1 - Criar tarefa\n" +
                           "2 - Visualizar tarefa\n" +
